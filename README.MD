@@ -4,6 +4,10 @@ In this lecture we introduce SQL, specfically the PostgreSQL flavor of SQL.
 
 PostgreSQL is the language that we will be using to interact with our database to store, retrieve, delete, and update data.
 
+## Lecture Slides
+
+https://slides.com/mattbodily/deck
+
 ## Database
 
 A database is an organized way that we can create and store data for our applications. 
